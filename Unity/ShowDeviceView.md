@@ -3,12 +3,12 @@
 * VR内で見えている映像をデスクトップ画面にミラーリングするかどうかの設定
 * falseでミラーリングをオフにする
 
-* オフにする
+### オフにする
 ```csharp
 UnityEngine.XR.XRSettings.showDeviceView = false;
 ```
 
-* オンにする
+### オンにする
 ```csharp
 UnityEngine.XR.XRSettings.showDeviceView = true;
 ```
