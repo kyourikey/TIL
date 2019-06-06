@@ -23,6 +23,7 @@
 -   [ProjectTemplate](Unity/ProjectTemplate.md)
 -   [RunOtherProcesses](Unity/RunOtherProcesses.md)
 -   [ShowDeviceView](Unity/ShowDeviceView.md)
+-   [Lighting](Unity/Lighting.md)
 -   [LightingWindow](Unity/LightingWindow.md)
 -   [LightingWindow_Scene](Unity/LightingWindow_Scene.md)
 
