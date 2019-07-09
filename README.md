@@ -26,6 +26,7 @@
 -   [Lighting](Unity/Lighting.md)
 -   [LightingWindow](Unity/LightingWindow.md)
 -   [LightingWindow_Scene](Unity/LightingWindow_Scene.md)
+-   [EditorConfig](Unity/EditorConfig.md)
 
 ### Blender
 
